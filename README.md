@@ -58,9 +58,6 @@ Dense (6) + Softmax
 | Metric              |  Score |
 | ------------------- | -----: |
 | Training Accuracy   | 87.55% |
-| Validation Accuracy | 81.83% |
-| Test Accuracy       |   ~82% |
-| Macro F1-Score      |  ~0.82 |
 
 The model was evaluated using **accuracy, precision, recall, F1-score, and a confusion matrix**.
 
